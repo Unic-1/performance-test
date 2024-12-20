@@ -1,0 +1,3 @@
+# .gitkeep
+# This file is used to ensure that the raw results directory is tracked by Git.
+# You can place raw output files from k6 tests in this directory.

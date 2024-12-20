@@ -1,0 +1,11 @@
+{
+  // env-config.json
+  // This file holds environment-specific configurations for your tests.
+  // Modify the values based on your testing environment.
+  // Example:
+  // {
+  //     "baseUrl": "https://your-application-url.com"
+  // }
+
+  "baseUrl": "https://your-application-url.com"
+}

@@ -1,0 +1,15 @@
+{
+  // k6-config.json
+  // This file contains configuration settings for k6.
+  // Adjust the settings according to your testing needs.
+  // Example:
+  // {
+  //     "vus": 100,
+  //     "duration": "1m"
+  // }
+
+  "options": {
+    "vus": 100,
+    "duration": "1m"
+  }
+}
